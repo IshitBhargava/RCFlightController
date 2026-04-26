@@ -10,10 +10,11 @@ The hardware is based on the v1.0 and v1.1 boards, whose gerber files and <i>fri
 # Supported expansion devices:
 
 <table>
-  <th>
-    <tr>Interface</tr>
-    <tr>Device(s)</tr>
-  </th>
+  <tr>
+    <th>Interface</th>
+    <th>Device(s)</th>
+  </tr>
+  
 </table>
 
 
