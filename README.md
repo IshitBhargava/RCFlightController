@@ -14,7 +14,17 @@ The hardware is based on the v1.0 and v1.1 boards, whose gerber files and <i>fri
     <th>Interface</th>
     <th>Device(s)</th>
   </tr>
+  <tr>
+    <td>I2C</td>
+    <td>VL53L0X, VL53L1X, Barometer*, Compass**, Airspeed***</td>
+  </tr>
+  <tr>
+    <td>Serial</td>
+    <td>Optical flow</td>
+  </tr>
   
 </table>
+
+<subscript>hello</subscript>
 
 
