@@ -16,15 +16,13 @@ The hardware is based on the v1.0 and v1.1 boards, whose gerber files and <i>fri
   </tr>
   <tr>
     <td>I2C</td>
-    <td>VL53L0X, VL53L1X, Barometer*, Compass**, Airspeed***</td>
+    <td>VL53L0X, VL53L1X, Barometer<sup>1</sup>, Compass<sup>2</sup>, Airspeed<sup>3</sup></td>
   </tr>
   <tr>
     <td>Serial</td>
-    <td>Optical flow</td>
+    <td>Optical flow<sup>4</sup></td>
   </tr>
   
 </table>
-
-<subscript>hello</subscript>
 
 
